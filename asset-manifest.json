@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.052be0cb.chunk.css",
+    "main.js": "/static/js/main.0adacd1b.chunk.js",
+    "main.js.map": "/static/js/main.0adacd1b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.230ce140.js",
+    "runtime-main.js.map": "/static/js/runtime-main.230ce140.js.map",
+    "static/js/2.2cbddb83.chunk.js": "/static/js/2.2cbddb83.chunk.js",
+    "static/js/2.2cbddb83.chunk.js.map": "/static/js/2.2cbddb83.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a58acf61996e3851f70709467ec688fc.js": "/precache-manifest.a58acf61996e3851f70709467ec688fc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.052be0cb.chunk.css.map": "/static/css/main.052be0cb.chunk.css.map",
+    "static/media/azure.png": "/static/media/azure.824c18cc.png",
+    "static/media/color.jpg": "/static/media/color.a5e57412.jpg",
+    "static/media/foodiy_light.png": "/static/media/foodiy_light.b7a00da2.png",
+    "static/media/gps2.png": "/static/media/gps2.6b4a1432.png",
+    "static/media/me3.JPG": "/static/media/me3.fee5116d.JPG",
+    "static/media/mementos2.png": "/static/media/mementos2.60a5eef9.png",
+    "static/media/resume.pdf": "/static/media/resume.b9aff9f6.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.230ce140.js",
+    "static/js/2.2cbddb83.chunk.js",
+    "static/css/main.052be0cb.chunk.css",
+    "static/js/main.0adacd1b.chunk.js"
+  ]
+}
